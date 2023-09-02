@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF758&width=435&lines=Hello+Thanks+for+visiting+;You+need+permission+to+use+this+tool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F70E&center=true&width=435&lines=Thanks+for+visiting+;This+is+a+Free+Tool+;Tool+owner+MD+Lijanur+Rahman+Limon+)](https://git.io/typing-svg)
  
 
 <p align="center">
@@ -28,12 +28,9 @@ MD Lijanur Rahman Limon
 #### INSTALL TOOL ON TERMUX
 ```python
 
-git clone https://github.com/vip-limon-gamer/Gift.py
- 
+git clone https://github.com/vip-limon-gamer/Gift.py 
 cd Gift.py
-
 ls
-
 python Limon.py
 
 ```
