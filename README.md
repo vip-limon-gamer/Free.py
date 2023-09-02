@@ -28,7 +28,7 @@ MD Lijanur Rahman Limon
 #### INSTALL TOOL ON TERMUX
 ```python
 
-git clone https://github.com/vip-limon-gamer/Gift.py 
+git clone https://github.com/vip-limon-gamer/Free.py 
 cd Gift.py
 ls
 python Limon.py
