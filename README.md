@@ -34,7 +34,7 @@ cd Gift.py
 
 ls
 
-Limon.py
+python Limon.py
 
 ```
 #### Screenshots:
